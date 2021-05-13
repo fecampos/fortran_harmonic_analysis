@@ -1,4 +1,4 @@
-      program harmonic_analysis
+      program main_harmonic_analysis
 
       use netcdf
 
