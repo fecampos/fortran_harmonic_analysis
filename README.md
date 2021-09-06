@@ -1,4 +1,4 @@
-# fortran Harmonic Analysis
+# fortran Harmonic Analysis in 2D
 
 This library contains Fortran scripts to do an harmonic analysis
 
