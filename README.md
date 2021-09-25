@@ -1,6 +1,6 @@
 # fortran Harmonic Analysis in 2D
 
-This library contains Fortran scripts to do an harmonic analysis
+This library contains Fortran scripts to compute annual and semiannual harmonics using an harmonic fit
 
 **References**
 
